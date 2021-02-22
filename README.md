@@ -1,5 +1,5 @@
 # P4
-logo la chouette agence
+
 OPTIMISEZ UN SITE WEB EXISTANT
 Réaliser une recherche des bonnes pratiques en développement web
 Assurer l'accessibilité d'un site web
